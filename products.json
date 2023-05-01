@@ -1,0 +1,30 @@
+[
+  {
+    "nombre": "Remera",
+    "price": 99,
+    "thumbnail": "url.com/url",
+    "code": "aaj",
+    "id": 1
+  },
+  {
+    "name": "Camiseta",
+    "price": 30,
+    "thumbnail": "url.com/url",
+    "code": "aac",
+    "id": 2
+  },
+  {
+    "name": "Esponja",
+    "price": 320,
+    "thumbnail": "url.com/url",
+    "code": "aad",
+    "id": 3
+  },
+  {
+    "name": "Pelota",
+    "price": 120,
+    "thumbnail": "url.com/url",
+    "code": "aae",
+    "id": 4
+  }
+]
